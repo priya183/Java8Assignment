@@ -14,7 +14,7 @@ interface Check{
 	   public static void main(String[] args) {
 
 
-
+System.out.println("Hello Git");
 	       String number = "12321";
 	        char ch[] = number.toCharArray();
 	        char temp[] = new char[number.length()];
